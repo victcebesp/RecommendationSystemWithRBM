@@ -1,0 +1,3 @@
+# Restricted Bolztmann Machine
+
+Working on the readme...
